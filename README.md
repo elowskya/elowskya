@@ -19,10 +19,6 @@ I am completing my second MERN stack bootcamp and am crushing it.
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elowskya&layout=compact&theme=highcontrast&count_private=true&title_color=f59700&bg_color=0f1021&icon_color=00899e" />
 </a>
 
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashley.elowsky123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashleyelowsky/)
-
 ### Languages I use 📑
 
 ![C++](http://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
